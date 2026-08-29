@@ -1,0 +1,18 @@
+# Core
+numpy>=2.0
+pandas>=2.2
+scipy>=1.14
+matplotlib>=3.9
+joblib>=1.4
+
+# Machine learning
+scikit-learn>=1.6
+lightgbm>=4.5
+xgboost>=3.0
+
+# Explainability / calibration statistics
+shap>=0.47
+statsmodels>=0.14
+
+# Optional if you want explicit Chinese segmentation before TF-IDF
+jieba>=0.42
